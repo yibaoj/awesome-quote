@@ -14,3 +14,6 @@ Feel free to contribute, and we will make categories when quotes expand.
 
 > "Men should seek knowledge and practical skill not for pleasure of mind, or for contention, or for superiority to others, or for profit, or fame, or power, or any of these inferior things; but for the benefit and use of life.", by **Francis Bacon**, English philosopher.
 > “人们对知识和技能的追求，不应该是为了自得其乐、争强好胜、高人一等、追逐名利、争权夺位，或其他任何类似的低劣的东西，而应该是为了改善生活”，**弗朗西斯·培根**，英国哲学家。
+
+> "Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers.", by **Socrates**, Greek philosopher.
+> “聪明的人从一切事物和每人身上学习，普通的人从自己的经验中学习，愚蠢的人已经拥有了所有的答案。”，**苏格拉底**，古希腊哲学家。
